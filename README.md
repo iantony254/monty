@@ -176,7 +176,7 @@ $ ./monty queue.m
 
 ## :blue_book: Authors
 
-* **Ian Antony** - [@bdbaraban](https://github.com/iantony254)
+* **Ian Antony**
 
 
 ## :mag: License
